@@ -1,0 +1,6 @@
+resume.md
+results.csv
+urls.txt
+.env
+__pycache__/
+.pytest_cache/
