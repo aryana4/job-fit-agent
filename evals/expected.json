@@ -1,0 +1,5 @@
+{
+  "maple_health_research_coordinator.txt": {"company": "Maple Health Institute", "title": "Research Coordinator", "salary": "$62,000 - $70,000", "deadline": "January 15, 2027", "best_resume": "Research"},
+  "northwind_data_analyst.txt": {"company": "Northwind Commerce", "title": "Junior Data Analyst", "salary": "Not listed", "deadline": "Not listed", "best_resume": "Tech"},
+  "lumen_ai_evaluator.txt": {"company": "Lumen AI", "title": "AI Response Evaluator", "salary": "$35/hour", "deadline": "December 20, 2026", "best_resume": "UX"}
+}
