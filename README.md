@@ -97,9 +97,3 @@ tools.py          Tool schemas, web fetching, text normalization
 evals/            Fictional postings, expected answers, eval runner
 tests/            Unit tests with a fake model (no API key needed)
 ```
-
-## What I'd add next
-
-- A second "reviewer" model that audits fit scores for over-optimism
-- Inter-run consistency checks: same posting, several runs, how stable is the score?
-- Support for JavaScript-heavy job sites via a headless browser
