@@ -1,0 +1,14 @@
+Northwind Commerce — Junior Data Analyst (Fictional sample posting)
+
+Location: Remote (Canada)
+Compensation: Not disclosed
+
+What you'll do
+Analyze customer purchase data using SQL and Python to find trends that improve our checkout experience.
+Build dashboards for product managers and present findings to non-technical teams.
+
+What we're looking for
+- Strong SQL skills
+- Experience with Python (pandas)
+- Ability to explain data clearly to non-technical audiences
+- 1+ years of experience in an analytics role
